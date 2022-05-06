@@ -1,5 +1,5 @@
 # aspnet-mvc5-blog #
-Bu proje 2022 yılında Dilara Nur Altıparmak tarafından Mvc5 ile katmanlı mimaride solid prensiplerinden yararlanılarak gerçekleştirilmiştir.Veritabanı olarak MSSQL
+Bu proje 2022 yılında Dilara Nur Altıparmak tarafından AspNet-Mvc5 ile katmanlı mimaride SOLID prensiplerinden yararlanılarak gerçekleştirilmiştir.Veritabanı olarak MSSQL
 kullanılmıştır.Proje kapsamında:Layout Kontrolü,Controller Yapısı,N Katmanlı Mimari,Katmanlı Mimari Prensibi,Partial View,Code First,Entity Framework,Model Yapısı,View Yapısı,Linq Sorguları
 Entity Framework Sorguları,İlişkili Tablolar,Diyagramlar,Hazır Template Kurulumu ve Düzenlenmesi,Bootstrap Yapısı kullanılmıştır.
 
